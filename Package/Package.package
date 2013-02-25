@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="b11cec46-e4e7-45dd-a7ba-aded22496057" 
+        solutionId="4cdd32b8-00ce-4dd0-9290-a32c25103619" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPTaxonomySample"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="140e7644-042e-4c5f-930a-75b0b880879c" />
+  </features>
+</package>
